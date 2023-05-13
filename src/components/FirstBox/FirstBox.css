@@ -1,0 +1,30 @@
+    .com-1-flex-item{
+    padding: 20px;
+    width: 750px;
+    min-height: 150px;
+    color: black;
+    margin-right: 40px;
+    margin-bottom: 30px;
+  }
+  
+  p.com-1-firstField{
+    color: #2929a3;
+    font-weight: bold;
+    font-size: 18px;
+  }
+  
+  .com-1-divForText{
+    max-width: 500px;
+    display: flex;
+    align-items:center;
+  }
+  
+  .com-1-picClass2{
+    width: 100px;
+    height: 100px;
+    margin-left: 40px;
+  }
+  
+  .com-1-button:hover {
+    background-color: #2f6a31; 
+  }

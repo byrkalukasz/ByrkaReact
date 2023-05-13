@@ -1,0 +1,18 @@
+
+  input.moja{
+    border: 0;
+    margin-left: 40px;
+  }
+
+  img.picClass{
+        width: 40px;
+        height: 40px;
+        display: inline-block;
+  }
+
+  i.myclass2{
+    display: inline-block;
+    margin-right: 30px;
+    margin-top: 7px;
+    color: white;
+  }

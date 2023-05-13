@@ -1,0 +1,40 @@
+.myContainer {
+  padding: 15px;
+  top: 0px;
+  right: 0;
+  left: 0;
+  height: 100pc;
+  background-color: #8a8a8a;
+}
+
+.sidebar {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 200px;
+  height: 1000px;
+  background: rgb(202, 201, 201);
+  float: left;
+}
+
+.header {
+  height: 60px;
+  padding: 10px;
+  margin-left: 200px;
+  background-color: rgb(7, 7, 7);
+}
+
+.content {
+  height: 100px;
+  margin-left: 200px;
+  margin-top: 20px;
+}
+
+.flex-container {
+  display: flex;
+  flex-flow: row wrap;
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}

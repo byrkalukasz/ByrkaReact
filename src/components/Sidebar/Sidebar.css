@@ -1,0 +1,35 @@
+.sidebar {
+  position: fixed;
+  width: 200px;
+  height: 100%;
+  background: rgb(63, 63, 63);
+}
+.sidebar header {
+  font-size: 17px;
+  color: black;
+  line-height: 40px;
+  text-align: center;
+  background: rgb(129, 129, 129);
+  user-select: none;
+}
+.sidebar ul {
+  list-style-type: none;
+}
+.sidebar ul a {
+  display: block;
+  height: 100%;
+  width: 100%;
+  line-height: 65px;
+  font-size: 17px;
+  color: black;
+  padding-left: 0px;
+  text-decoration: none;
+}
+
+.sidebar ul i {
+  margin-right: 8px;
+}
+
+ul li:hover a {
+  padding-left: 10px;
+}
